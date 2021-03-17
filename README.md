@@ -1,4 +1,4 @@
-# Brain tumor segmetnation usign anatomical contextual information
+# Brain tumor segmentation usign anatomical contextual information
 
 
 Code used to prepare the data following the nnU-Net dataset specification for the project:

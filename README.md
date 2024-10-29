@@ -1,6 +1,6 @@
 # Does anatomical contextual information improve 3D U-net-based brain tumor segmentation?
 
-This repository contains the code used to obtain and organize the anatomical contextual information used to train a U-Net segmentation model (using the nnU-Net framework) to explore the potential improvements in brain tumor segmentation when using contextual information. The results showed similar performance across models, with median Dice scores around 90%, and no statistically significant improvements in overall segmentation accuracy, training time, or domain generalization when contextual information was added.
+This repository provides the code for obtaining and organizing anatomical contextual information used to train a U-Net segmentation model within the nnU-Net framework. The project investigates potential improvements in brain tumor segmentation accuracy when incorporating contextual data. Results indicate similar performance across models, with median Dice scores near 90% and no statistically significant enhancements in segmentation accuracy, training time, or domain generalization from adding contextual information.
 
 [Journal](https://doi.org/10.3390/diagnostics11071159) | [Cite](#reference)
 
